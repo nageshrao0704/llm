@@ -1,0 +1,25 @@
+{
+  "name": "llm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nageshrao0704/llm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nageshrao0704/llm/issues"
+  },
+  "homepage": "https://github.com/nageshrao0704/llm#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.8.1"
+  }
+}
